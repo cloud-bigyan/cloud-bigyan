@@ -26,7 +26,7 @@ A network documentation tool with version control.
 ## 📫 Let's Connect
 
 - 📧 Email: [bigyan.uni@gmail.com](mailto:bigyan.uni@gmail.com)
-- 💼 LinkedIn: *coming soon!*
+- 💼 LinkedIn: [Bigyan Acharya](https://www.linkedin.com/in/bigyan-acharya-3232b3293/)
 - ♟️ Chess: [@winyourqueen](https://www.chess.com/member/winyourqueen)  
 
 ---
